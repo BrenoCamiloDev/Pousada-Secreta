@@ -9,6 +9,9 @@ export default function Header () {
           <div>
             <ul>
               <li>
+                <a href="#">Cadastro/Login</a>
+              </li>
+              <li>
                 <a href="#">SOBRE</a>
               </li>
               <li>

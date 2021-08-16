@@ -12,8 +12,6 @@ export default function HomePage () {
         <p> Relaxe em nossas acomodações e curta o melgor de Angra dos Reis</p>
         <p>Temos quartos para solteiro, casal ou familia</p>
       </div>
-      
-
     </div>
   );
 }
