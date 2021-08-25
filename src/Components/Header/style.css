@@ -1,0 +1,25 @@
+/* Header principal fixed*/
+.TOPO {
+  background-color: #fff;
+  display: flex;
+  width: 1024px;
+  position: fixed;
+  top: 0px;
+}
+span{
+  color: rgb(78, 181, 240);
+}
+
+h1 {
+  width: 500px;
+}
+
+ul li{
+display: inline-flex;
+padding: 10px;
+text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
