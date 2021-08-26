@@ -2,7 +2,7 @@
 .TOPO {
   background-color: #fff;
   display: flex;
-  width: 1024px;
+  width: 100%;
   position: fixed;
   top: 0px;
 }

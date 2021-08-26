@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding-top: 60px;
+  text-align: center;
+}
+.container-1 {
+  color: #fff;
+  background-image: url(/src/Components/assets/img-fundo.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 100%;
+  text-decoration: none;
+  }
+.titulos {
+  text-align: center;
+  background-color: aqua;
+}
