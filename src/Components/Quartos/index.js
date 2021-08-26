@@ -2,7 +2,7 @@ import React from 'react';
 import quartosolteiro2 from '../assets/quarto-solteiro2.jpg';
 import quartocasal2 from '../assets/quarto-casal2.jpg';
 import quartofamilia2 from '../assets/quarto-familia3.jpg';
-
+import './bedroons.css';
 
 export default function Bedroom (){
   return (

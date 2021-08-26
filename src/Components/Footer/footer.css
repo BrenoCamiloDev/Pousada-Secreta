@@ -1,0 +1,21 @@
+footer{
+  text-align: center;
+  justify-content: center;
+  background-color: blueviolet;
+  color: #fff;
+}
+.Container1 {
+  display:inline-flex;
+  width: 100%;
+}
+.Container1 .titulo{
+  padding-right: 50px;
+}
+
+.Container1 .a-link {
+  padding-right: 30px;
+}
+footer p{
+  color: #fff;
+}
+
